@@ -377,7 +377,7 @@ const ProjectCard3D: React.FC<ProjectCard3DProps> = ({ project, index }) => {
               <button
                 ref={buttonRef}
                 className="group/btn relative inline-flex items-center px-6 py-3 text-sm font-semibold text-white rounded-xl glass-button focus:outline-none focus:ring-2 focus:ring-emerald-400/50"
-                onClick={() => window.open('https://xiyouji-rela-map.vercel.app/', '_blank')}
+                onClick={() => window.open('https://www.myvisualization1.xyz/', '_blank')}
                 onMouseEnter={handleButtonMouseEnter}
                 onMouseLeave={handleButtonMouseLeave}
               >
